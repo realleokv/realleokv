@@ -1,16 +1,57 @@
-## Hi there 👋
+```ascii
+██╗     ███████╗ ██████╗      ██████╗ █████╗ ██████╗ ██╗   ██╗ █████╗ ██╗     ██╗  ██╗ ██████╗ 
+██║     ██╔════╝██╔═══██╗    ██╔════╝██╔══██╗██╔══██╗██║   ██║██╔══██╗██║     ██║  ██║██╔═══██╗
+██║     █████╗  ██║   ██║    ██║     ███████║██████╔╝██║   ██║███████║██║     ███████║██║   ██║
+██║     ██╔══╝  ██║   ██║    ██║     ██╔══██║██╔══██╗╚██╗ ██╔╝██╔══██║██║     ██╔══██║██║   ██║
+███████╗███████╗╚██████╔╝    ╚██████╗██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████╗██║  ██║╚██████╔╝
+╚══════╝╚══════╝ ╚═════╝      ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
+```
 
-<!--
-**realleokv/realleokv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salve, eu sou o **Leo Carvalho**
 
-Here are some ideas to get you started:
+🎯 **15 anos**
+🧠 **Autodidata** apaixonado por tecnologia e programação
+💻 Estudante de **Informática** no Ensino Médio Técnico
+🚀 Sempre criando projetos, aprendendo algo novo e transformando ideias em código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias que eu uso
+
+```txt
+🐍 Python
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🐘 PHP
+```
+
+---
+
+## 📌 Sobre mim
+
+* 🔥 Aprendo programação por conta própria desde cedo
+* 💡 Gosto de desenvolver sites, sistemas e automações
+* 🧩 Curto desafios de lógica e programação
+* 📈 Estou construindo minha carreira na área de tecnologia
+
+---
+
+## ⚡ Atualmente
+
+```txt
+Estudando: Python avançado, JavaScript e desenvolvimento web
+Criando: Projetos pessoais e sistemas para portfólio
+Objetivo: Evoluir como desenvolvedor full stack
+```
+
+---
+
+## 📫 Contato
+
+* Instagram: **@realleocarvalho**
+* GitHub: **github.com/LeoCarvalho**
+
+---
+
+> “Código não é só escrever linhas. É transformar uma ideia em algo que funciona.” 🚀
