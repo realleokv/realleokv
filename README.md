@@ -11,7 +11,7 @@
 
 🎯 **15 anos**
 🧠 **Autodidata** apaixonado por tecnologia e programação
-💻 Estudante de **Informática** no Ensino Médio Técnico
+💻 Estudante de **Informática** no Ensino Médio Técnico do SENAC São Miguel
 🚀 Sempre criando projetos, aprendendo algo novo e transformando ideias em código.
 
 ---
@@ -49,9 +49,5 @@ Objetivo: Evoluir como desenvolvedor full stack
 
 ## 📫 Contato
 
-* Instagram: **@realleocarvalho**
-* GitHub: **github.com/LeoCarvalho**
-
----
-
-> “Código não é só escrever linhas. É transformar uma ideia em algo que funciona.” 🚀
+* Instagram: **@realleokv**
+* GitHub: **github.com/realleokv**
