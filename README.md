@@ -9,10 +9,10 @@
 
 # 👋 Salve, eu sou o **Leo Carvalho**
 
-🎯 **15 anos**
-🧠 **Autodidata** apaixonado por tecnologia e programação
-💻 Estudante de **Informática** no Ensino Médio Técnico do SENAC São Miguel
-🚀 Sempre criando projetos, aprendendo algo novo e transformando ideias em código.
+🎯 **15 anos** - **Zona Leste, São Paulo, SP** \
+🧠 **Autodidata** apaixonado por tecnologia e programação \
+💻 Estudante de **Informática** no Ensino Médio Técnico do SENAC São Miguel \
+🚀 Sempre criando projetos, aprendendo algo novo e transformando ideias em código. \
 
 ---
 
