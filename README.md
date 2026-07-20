@@ -7,7 +7,7 @@
 ╚══════╝╚══════╝ ╚═════╝      ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
 ```
 
-# 👋 Salve, eu sou o **Leonardo A.S. de Carvalho**
+# 👋 Hello World, eu sou o **Leonardo A.S. de Carvalho**
 
 🎯 **15 anos** - **Zona Leste, São Paulo, SP** \
 🧠 Desenvolvedor **autodidata** focado em Python, automações e desenvolvimento web. \
